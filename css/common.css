@@ -35,7 +35,7 @@ section {
 	color: #fff;
 	font-weight: normal;
 	padding: 0 0 0 15px;
-	background: #2661C1;
+	background: #FF0000;
 	background: -moz-linear-gradient(#2661C1 0%, #063273 100%);
 	background: -ms-linear-gradient(#2661C1 0%, #063273 100%);
 	background: -webkit-gradient(linear, 50% 0%, 50% 100%,color-stop(0%, #2661C1), color-stop(100%, #063273));
